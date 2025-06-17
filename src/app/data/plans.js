@@ -1,4 +1,4 @@
-// data/plans.js
+
 export const plans = [
   {
     name: "Free",

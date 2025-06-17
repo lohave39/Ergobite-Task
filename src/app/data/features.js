@@ -1,4 +1,4 @@
-// data/features.js
+
 export const features = [
   {
     label: "Basic Support",
